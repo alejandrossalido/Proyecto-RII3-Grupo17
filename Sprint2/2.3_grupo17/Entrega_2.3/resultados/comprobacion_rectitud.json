@@ -1,0 +1,38 @@
+{
+  "opencv": "4.13.0",
+  "resolucion": [
+    1920,
+    1080
+  ],
+  "fotos_totales": 51,
+  "fotos_con_patron": 22,
+  "mejoran": 13,
+  "mediana_original_px": 1.392291572001801,
+  "mediana_corregida_px": 1.3228062691686826,
+  "ejemplos": [
+    {
+      "foto": "WIN_20260924_15_09_04_Pro.jpg",
+      "rectitud_original_px": 0.3756525908008119,
+      "rectitud_corregida_px": 0.38875781978325574,
+      "mejora": false
+    },
+    {
+      "foto": "WIN_20260924_15_09_26_Pro.jpg",
+      "rectitud_original_px": 0.7592118121439184,
+      "rectitud_corregida_px": 0.5026833793444361,
+      "mejora": true
+    },
+    {
+      "foto": "WIN_20260924_15_09_35_Pro.jpg",
+      "rectitud_original_px": 2.5397316538815375,
+      "rectitud_corregida_px": 3.1107335154484206,
+      "mejora": false
+    }
+  ],
+  "metodo": "Distancia RMS perpendicular de esquinas a rectas por filas y columnas. Mismas correspondencias con undistortPoints(P=K).",
+  "limitaciones": [
+    "Fotos del mismo conjunto de calibración, sin validación independiente.",
+    "El patrón presenta ondulaciones. No permite aislar distorsión óptica y curvatura del papel.",
+    "La medida en píxeles también depende de la escala. No es el RMS de reproyección."
+  ]
+}

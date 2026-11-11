@@ -1,0 +1,39 @@
+{
+  "fecha": "2026-10-22",
+  "entorno": {
+    "python": "3.12.14",
+    "opencv": "4.13.0",
+    "paquete_opencv": "opencv-contrib-python==4.13.0.92",
+    "numpy": "2.2.6"
+  },
+  "regresiones": {
+    "total": 7,
+    "resultado": "OK"
+  },
+  "demostracion_sin_ventana": {
+    "fotos_procesadas": 51,
+    "resultado": "OK"
+  },
+  "interfaz_grafica": {
+    "comparacion": "OK",
+    "navegacion_aruco": [
+      "foto 48",
+      "N: foto 49",
+      "P: foto 48",
+      "Q: salir"
+    ],
+    "resultado": "OK"
+  },
+  "reproduccion_desde_zip": {
+    "carpeta_distinta": true,
+    "calibracion_recalculada": true,
+    "informes_identicos": true,
+    "resultado": "OK"
+  },
+  "presentacion": {
+    "diapositivas": 6,
+    "inspeccion_visual": true,
+    "validacion_estructura_y_fuentes": "OK"
+  },
+  "limite": "Demostración con fotografías guardadas. Mejora de rectificación limitada. Sin nuevas fotos de un patrón plano ni validación independiente."
+}

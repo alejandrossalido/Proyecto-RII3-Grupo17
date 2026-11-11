@@ -1,0 +1,20 @@
+%YAML 1.2
+---
+camera_name: camara_normal_de_las_fotos
+image_width: 1920
+image_height: 1080
+camera_matrix: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 1679.1144230286518, 0., 1220.553938985641, 0.,
+       1670.4742637237334, 809.6591726852115, 0., 0., 1. ]
+distortion_coefficients: !!opencv-matrix
+   rows: 1
+   cols: 5
+   dt: d
+   data: [ -0.020455448944965329, -0.30480834375545868,
+       -0.024817474500385066, 0.039253581790158351, 0.22485808717938516 ]
+rms_reprojection_error_px: 2.5484018161492936
+used_images: 19
+validation_status: experimental_pendiente_de_validacion

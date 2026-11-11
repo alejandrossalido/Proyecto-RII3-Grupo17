@@ -1,0 +1,220 @@
+{
+  "camara": "camara_normal_de_las_fotos",
+  "opencv": "5.0.0",
+  "resolucion": [
+    1920,
+    1080
+  ],
+  "fotos_utilizadas": 19,
+  "fotos_descartadas": [
+    {
+      "foto": "WIN_20260924_15_09_17_Pro.jpg",
+      "motivo": "Patrón completo no detectado"
+    },
+    {
+      "foto": "WIN_20260924_15_09_21_Pro.jpg",
+      "motivo": "Patrón completo no detectado"
+    },
+    {
+      "foto": "WIN_20260924_15_09_35_Pro.jpg",
+      "motivo": "Patrón completo no detectado"
+    },
+    {
+      "foto": "WIN_20260924_15_09_57_Pro.jpg",
+      "motivo": "Patrón completo no detectado"
+    },
+    {
+      "foto": "WIN_20260924_15_09_58_Pro.jpg",
+      "motivo": "Patrón completo no detectado"
+    },
+    {
+      "foto": "WIN_20260924_15_10_13_Pro.jpg",
+      "motivo": "Patrón completo no detectado"
+    },
+    {
+      "foto": "WIN_20260924_15_10_19_Pro.jpg",
+      "motivo": "Patrón completo no detectado"
+    },
+    {
+      "foto": "WIN_20260924_15_10_23_Pro.jpg",
+      "motivo": "Patrón completo no detectado"
+    },
+    {
+      "foto": "WIN_20260924_15_10_31_Pro.jpg",
+      "motivo": "Patrón completo no detectado"
+    },
+    {
+      "foto": "WIN_20260924_15_10_36_Pro.jpg",
+      "motivo": "Patrón completo no detectado"
+    },
+    {
+      "foto": "WIN_20260924_15_10_39_Pro.jpg",
+      "motivo": "Patrón completo no detectado"
+    },
+    {
+      "foto": "WIN_20260924_15_11_14_Pro.jpg",
+      "motivo": "Patrón completo no detectado"
+    },
+    {
+      "foto": "WIN_20260924_15_11_17_Pro.jpg",
+      "motivo": "Patrón completo no detectado"
+    },
+    {
+      "foto": "WIN_20260924_15_11_18_Pro.jpg",
+      "motivo": "Patrón completo no detectado"
+    },
+    {
+      "foto": "WIN_20260924_15_11_21_Pro.jpg",
+      "motivo": "Patrón completo no detectado"
+    },
+    {
+      "foto": "WIN_20260924_15_11_23_Pro.jpg",
+      "motivo": "Patrón completo no detectado"
+    },
+    {
+      "foto": "WIN_20260924_15_11_24_Pro.jpg",
+      "motivo": "Patrón completo no detectado"
+    },
+    {
+      "foto": "WIN_20260924_15_11_26_Pro.jpg",
+      "motivo": "Patrón completo no detectado"
+    },
+    {
+      "foto": "WIN_20260924_15_11_29_Pro.jpg",
+      "motivo": "Patrón completo no detectado"
+    },
+    {
+      "foto": "WIN_20260924_15_11_32_Pro.jpg",
+      "motivo": "Patrón completo no detectado"
+    },
+    {
+      "foto": "WIN_20260924_15_11_35_Pro.jpg",
+      "motivo": "Patrón completo no detectado"
+    },
+    {
+      "foto": "WIN_20260924_15_11_40_Pro.jpg",
+      "motivo": "Patrón completo no detectado"
+    },
+    {
+      "foto": "WIN_20260924_15_11_42_Pro.jpg",
+      "motivo": "Patrón completo no detectado"
+    },
+    {
+      "foto": "WIN_20260924_15_11_44_Pro.jpg",
+      "motivo": "Patrón completo no detectado"
+    },
+    {
+      "foto": "WIN_20260924_15_11_46_Pro.jpg",
+      "motivo": "Patrón completo no detectado"
+    },
+    {
+      "foto": "WIN_20260924_15_11_50_Pro.jpg",
+      "motivo": "Patrón completo no detectado"
+    },
+    {
+      "foto": "WIN_20260924_15_11_57_Pro.jpg",
+      "motivo": "Patrón completo no detectado"
+    },
+    {
+      "foto": "WIN_20260924_15_11_58_Pro.jpg",
+      "motivo": "Patrón completo no detectado"
+    },
+    {
+      "foto": "WIN_20260924_15_12_08_Pro.jpg",
+      "motivo": "Patrón completo no detectado"
+    },
+    {
+      "foto": "WIN_20260924_15_12_09_Pro.jpg",
+      "motivo": "Patrón completo no detectado"
+    },
+    {
+      "foto": "WIN_20260924_15_12_11_Pro.jpg",
+      "motivo": "Patrón completo no detectado"
+    },
+    {
+      "foto": "WIN_20260924_15_12_37_Pro.jpg",
+      "motivo": "Patrón completo no detectado"
+    }
+  ],
+  "error_global_rms_px": 2.548401816149294,
+  "errores_por_foto": [
+    {
+      "foto": "WIN_20260924_15_09_04_Pro.jpg",
+      "error_rms_px": 2.000509262084961
+    },
+    {
+      "foto": "WIN_20260924_15_09_26_Pro.jpg",
+      "error_rms_px": 0.9492914080619812
+    },
+    {
+      "foto": "WIN_20260924_15_09_38_Pro.jpg",
+      "error_rms_px": 2.6327524185180664
+    },
+    {
+      "foto": "WIN_20260924_15_09_40_Pro.jpg",
+      "error_rms_px": 1.7081505060195923
+    },
+    {
+      "foto": "WIN_20260924_15_09_45_Pro.jpg",
+      "error_rms_px": 0.9663403034210205
+    },
+    {
+      "foto": "WIN_20260924_15_09_48_Pro.jpg",
+      "error_rms_px": 2.320645332336426
+    },
+    {
+      "foto": "WIN_20260924_15_09_52_Pro.jpg",
+      "error_rms_px": 3.0549895763397217
+    },
+    {
+      "foto": "WIN_20260924_15_10_07_Pro.jpg",
+      "error_rms_px": 1.5328644514083862
+    },
+    {
+      "foto": "WIN_20260924_15_10_33_Pro.jpg",
+      "error_rms_px": 2.4235973358154297
+    },
+    {
+      "foto": "WIN_20260924_15_10_36_Pro (2).jpg",
+      "error_rms_px": 2.3408377170562744
+    },
+    {
+      "foto": "WIN_20260924_15_11_54_Pro.jpg",
+      "error_rms_px": 2.2234625816345215
+    },
+    {
+      "foto": "WIN_20260924_15_12_13_Pro.jpg",
+      "error_rms_px": 3.8929412364959717
+    },
+    {
+      "foto": "WIN_20260924_15_12_16_Pro.jpg",
+      "error_rms_px": 4.74536657333374
+    },
+    {
+      "foto": "WIN_20260924_15_12_22_Pro.jpg",
+      "error_rms_px": 0.7358008027076721
+    },
+    {
+      "foto": "WIN_20260924_15_12_28_Pro.jpg",
+      "error_rms_px": 3.2989466190338135
+    },
+    {
+      "foto": "WIN_20260924_15_12_31_Pro.jpg",
+      "error_rms_px": 3.7604362964630127
+    },
+    {
+      "foto": "WIN_20260924_15_12_32_Pro.jpg",
+      "error_rms_px": 1.686665654182434
+    },
+    {
+      "foto": "WIN_20260924_15_12_40_Pro.jpg",
+      "error_rms_px": 0.7465806007385254
+    },
+    {
+      "foto": "WIN_20260924_15_12_43_Pro.jpg",
+      "error_rms_px": 2.7749390602111816
+    }
+  ],
+  "foto_comparacion": "WIN_20260924_15_12_43_Pro.jpg",
+  "advertencia": "Resultado experimental. Revisar planitud, diversidad de vistas y resultado en una captura independiente. No transferir a otra cámara."
+}

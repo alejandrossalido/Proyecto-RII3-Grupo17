@@ -1,0 +1,21 @@
+{
+  "opencv": "5.0.0",
+  "fotos_con_patron": 22,
+  "mejoran": 13,
+  "mediana_original_px": 1.3922926006492466,
+  "mediana_corregida_px": 1.3228150031032428,
+  "auditoria_error": {
+    "foto": "WIN_20260924_15_09_04_Pro.jpg",
+    "forma_esquinas": [
+      117,
+      2
+    ],
+    "forma_proyectadas": [
+      117,
+      1,
+      2
+    ],
+    "error_expresion_actual_px": 191.85806274414062,
+    "error_punto_a_punto_px": 2.1631720066070557
+  }
+}
