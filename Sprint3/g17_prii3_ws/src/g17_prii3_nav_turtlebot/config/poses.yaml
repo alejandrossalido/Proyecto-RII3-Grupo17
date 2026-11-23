@@ -1,0 +1,12 @@
+# Propuesta sobre f1l3_sim.pgm según la descripción del usuario.
+# Pasillo izquierdo -> entrada del primer recinto cuadrado.
+# Editar estas poses si el profesor pide otros puntos exactos.
+configured: true
+initial: [-13.125, -0.025, -0.6]
+door: [-7.775, -1.625, 1.4]
+predefined: [-5.875, 4.625, 0.0]
+start_tolerance: 0.5
+targets:
+  10: [-8.025, 4.375, 0.0]
+  20: [-5.875, 4.625, 0.0]
+  30: [-5.125, 1.625, 0.0]

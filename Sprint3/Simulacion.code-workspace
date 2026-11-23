@@ -1,0 +1,24 @@
+{
+  "folders": [
+    {
+      "name": "Sprint 3 · Simulación",
+      "path": "g17_prii3_ws"
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/build": true,
+      "**/install": true,
+      "**/log": true,
+      "**/__pycache__": true,
+      "**/.pytest_cache": true,
+      "**/*.egg-info": true
+    },
+    "search.exclude": {
+      "**/build": true,
+      "**/install": true,
+      "**/log": true,
+      "**/__pycache__": true
+    }
+  }
+}
